@@ -1,0 +1,9 @@
+{
+  "name": "instance-auto-restarter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/compute": "^2.4.0"
+  }
+}
